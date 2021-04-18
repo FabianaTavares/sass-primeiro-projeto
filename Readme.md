@@ -6,6 +6,7 @@ Este é um conjunto de codigos do curso "Aprenda o básico de SASS e SCSS criand
 ## Objetivos do Curso:
 
 Neste curso você vai aprender o básico de SASS/SCC criando um projeto prático para aumentar ainda mais o seu aprendizado!
+Projeto Galeria de fotos.
 
 ## SASS
 
